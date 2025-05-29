@@ -1,0 +1,44 @@
+[28-May-2025 10:32:51 UTC] PHP Warning:  Undefined array key "temperature" in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/insert.php on line 5
+[28-May-2025 10:32:51 UTC] PHP Warning:  Undefined array key "humidity" in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/insert.php on line 6
+[28-May-2025 10:33:05 UTC] PHP Warning:  Undefined array key "temperature" in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/insert.php on line 5
+[28-May-2025 10:33:05 UTC] PHP Warning:  Undefined array key "humidity" in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/insert.php on line 6
+[29-May-2025 09:52:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 09:52:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 09:57:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 09:57:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:08:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:08:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:15:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:15:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:17:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:17:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:21:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:21:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:23:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:23:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:25:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:25:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:27:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:27:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:29:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:29:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 10:31:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 10:31:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 11:41:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 11:41:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 11:43:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 11:43:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 11:45:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 11:45:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 11:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 11:48:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
+[29-May-2025 11:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 8
+[29-May-2025 11:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/humancmt/public_html/nurkaisah/DHT11/bek_n/register_device_user.php on line 9
